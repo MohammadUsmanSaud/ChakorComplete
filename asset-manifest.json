@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChakorComplete/static/css/main.4e6aa7b0.css",
+    "main.js": "/ChakorComplete/static/js/main.35deb2cf.js",
+    "static/js/787.545aecf5.chunk.js": "/ChakorComplete/static/js/787.545aecf5.chunk.js",
+    "static/media/logo.svg": "/ChakorComplete/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ChakorComplete/index.html",
+    "main.4e6aa7b0.css.map": "/ChakorComplete/static/css/main.4e6aa7b0.css.map",
+    "main.35deb2cf.js.map": "/ChakorComplete/static/js/main.35deb2cf.js.map",
+    "787.545aecf5.chunk.js.map": "/ChakorComplete/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e6aa7b0.css",
+    "static/js/main.35deb2cf.js"
+  ]
+}
